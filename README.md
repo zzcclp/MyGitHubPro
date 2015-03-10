@@ -110,4 +110,9 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/ "Yahoo Search"
 [3]: http://search.msn.com/ "MSN Search"
 
+If you want your page to validate under XHTML 1.0 Strict,
+you've got to put paragraph tags in your blockquotes:
 
+<blockquote>
+<p>For example.</p>
+</blockquote>
