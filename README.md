@@ -1,6 +1,8 @@
 # MyGitHubPro
 Test Github
 
+![alt text](res/test.jpg "Title")
+
 这是一个普通段落。
 
 <table>
